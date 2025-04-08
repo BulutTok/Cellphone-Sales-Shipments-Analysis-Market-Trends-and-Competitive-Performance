@@ -1,7 +1,4 @@
-# Cellphone-Sales-Shipments-Analysis-Market-Trends-and-Competitive-Performance
-
-
-# Mixed Units and Sales Data - Data Visualization (MIS 505) Project
+# Cellphone Sales Shipments Analysis Market Trends and Competitive Performance
 
 ## Overview
 This Tableau project demonstrates effective table design for analyzing and visualizing sales data from several major cellphone brands. The workbook uses real-world examples to illustrate how different table formats can improve data lookup, comparison, and overall readability. The dataset represents cellphone sales across different time periods and includes important metrics such as shipment units and market share. This project is part of the MIS 505 Data Visualization course.
