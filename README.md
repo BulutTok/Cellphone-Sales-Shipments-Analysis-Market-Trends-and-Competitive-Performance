@@ -1,6 +1,6 @@
 # Cellphone-Sales-Shipments-Analysis-Market-Trends-and-Competitive-Performance
 
-```markdown
+
 # Mixed Units and Sales Data - Data Visualization (MIS 505) Project
 
 ## Overview
@@ -88,9 +88,9 @@ The visualizations and table designs in this project reveal several key insights
 ### Including the Screenshot
 To provide a visual reference, include the following Markdown snippet in your README file (ensure that the screenshot is in your repository):
 
-```markdown
-![Sales Data Results Screenshot](Screenshot_2025-04-08_at_12.08.11_PM.png)
-```
+
+![Sales Data Results ](Screenshot_2025-04-08_at_12.08.11_PM.png)
+
 
 ## How to Use the Project
 1. **Opening the Tableau Workbook:**  
