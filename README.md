@@ -89,7 +89,7 @@ The visualizations and table designs in this project reveal several key insights
 To provide a visual reference, include the following Markdown snippet in your README file (ensure that the screenshot is in your repository):
 
 
-![Sales Data Results ](Screenshot_2025-04-08_at_12.08.11_PM.png)
+![Sales Data Results ](Sales Data.png)
 
 
 ## How to Use the Project
