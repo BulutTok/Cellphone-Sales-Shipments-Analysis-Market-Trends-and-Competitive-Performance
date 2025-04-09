@@ -83,7 +83,7 @@ The visualizations and table designs in this project reveal several key insights
   Recognizing which brands are growing and which are declining enables targeted analysis and more effective resource allocation.
 
 ### Including the Screenshot
-To provide a visual reference, include the following Markdown snippet in your README file (ensure that the screenshot is in your repository):
+To provide a visual reference, :
 
 
 ![Sales Data Results ](Sales_Data.png)
